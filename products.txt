@@ -1,2 +1,0 @@
-P2,Mouse,25.0,2
-P3,Personal Computers,200.34,300
